@@ -1,0 +1,7 @@
+flask
+sklearn
+pandas
+numpy
+matplotlib.pyplot
+# git config --global user.nmae "ashishpateljhansi4047"
+#git confi --global user.email "rajarampateljhansi@gmail.com"
